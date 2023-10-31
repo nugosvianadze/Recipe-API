@@ -1,0 +1,10 @@
+__pychache__/
+*.pyc
+.idea
+venv/
+*.sqlite3
+.env
+static_common
+.docker
+.env/
+.venv/
